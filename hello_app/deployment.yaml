@@ -20,5 +20,5 @@ spec:
         - name: regcred
       containers:
         - name: hello-deployment
-          image: rbluezzs/hello-app:v1
+          image: rbluezzs/hello-app:v2
           imagePullPolicy: Always
